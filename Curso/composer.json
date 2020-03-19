@@ -1,0 +1,16 @@
+{
+    "name": "admin/curso",
+    "authors": [
+        {
+            "name": "EvertonAvelino",
+            "email": "56169155+EvertonAvelino@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sts\\": "app/sts",
+            "Core\\": "core"
+        }
+    },
+    "require": {}
+}
